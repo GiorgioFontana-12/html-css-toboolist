@@ -24,9 +24,9 @@ main{
     background-color: white;
 }
 
-div {
+.button {
     padding: 10px 50px;
-    border-radius: 5px;
+    border-bottom: 5px;
     border-color: lightgray;
 }
 
@@ -44,4 +44,8 @@ div {
     border: 1px solid lightslategray;
     color: lightslategray;
     border-radius: 5px;
+}
+
+.margin {
+    padding: 10px 50px;
 }
