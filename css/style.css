@@ -1,6 +1,7 @@
 body{
     background-color: lightgray;
     margin: 0;
+    box-sizing: border-box;
 }
 
 header {
@@ -26,8 +27,8 @@ main{
 
 .button {
     padding: 10px 50px;
-    border-bottom: 5px;
-    border-color: lightgray;
+    border-bottom: 1px;
+    border: solid lightgray;
 }
 
 #bw {
@@ -48,4 +49,16 @@ main{
 
 .margin {
     padding: 10px 50px;
+    border-bottom: 1px;
+    border: solid lightgray;
+    border-top: 0px;
+}
+
+.cerchiettov {
+    
+    display: inline-block;
+    border: solid 1px green;
+    border-radius: 50%;
+    box-sizing: 10px;
+
 }
