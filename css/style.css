@@ -29,8 +29,7 @@ main{
 
 .button {
     padding: 10px 50px;
-    border-bottom: 1px;
-    border: solid lightgray;
+    border-bottom: 1px solid lightgray;
 }
 
 #bw {
@@ -49,11 +48,8 @@ main{
     border-radius: 5px;
 }
 
-.margin {
+.Checklist {
     padding: 10px 50px;
-    border-bottom: 1px;
-    border: solid lightgray;
-    border-top: 0px;
 }
 
 .cerchiettov {
