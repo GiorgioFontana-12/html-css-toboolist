@@ -24,6 +24,7 @@ main{
     margin: 25px auto;
     max-width: 900px;
     background-color: white;
+    border-radius: 15px;
 }
 
 .button {
