@@ -35,7 +35,7 @@ main{
 #bw {
     padding: 8px;
     background-color: deepskyblue;
-    border: 0px;
+    border: 1px solid deepskyblue;
     color: white;
     border-radius: 5px;
 }
